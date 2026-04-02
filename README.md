@@ -127,5 +127,4 @@ This is surfaced in both the `/summary` API and the dashboard stat cards.
 ## 📬 Submission
 
 - **Email:** support@jarnox.com  
-- **GitHub:** [link to your repo]  
 - Built by: **Priyanshu**
